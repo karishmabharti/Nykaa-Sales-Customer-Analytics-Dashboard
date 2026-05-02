@@ -1,0 +1,241 @@
+ProductID,ProductName,CategoryGroup,Category,Brand,BrandType,MRP,COGS
+1001,Nykaa Cosmetics Makeup Item 1,BPC,Makeup,Nykaa Cosmetics,In-house,1212,368.15
+1002,Nykaa Cosmetics Makeup Item 2,BPC,Makeup,Nykaa Cosmetics,In-house,2553,859.68
+1003,Kay Beauty Makeup Item 1,BPC,Makeup,Kay Beauty,In-house,1443,592.31
+1004,Kay Beauty Makeup Item 2,BPC,Makeup,Kay Beauty,In-house,4767,1492.27
+1005,Nykd Makeup Item 1,BPC,Makeup,Nykd,In-house,3756,1144.71
+1006,Nykd Makeup Item 2,BPC,Makeup,Nykd,In-house,1067,355.09
+1007,Dot & Key Makeup Item 1,BPC,Makeup,Dot & Key,In-house,4439,1732.55
+1008,Dot & Key Makeup Item 2,BPC,Makeup,Dot & Key,In-house,4897,1615.16
+1009,Twenty Dresses Makeup Item 1,BPC,Makeup,Twenty Dresses,In-house,4764,1728.99
+1010,Twenty Dresses Makeup Item 2,BPC,Makeup,Twenty Dresses,In-house,3979,1545.4
+1011,L'Oreal Makeup Item 1,BPC,Makeup,L'Oreal,International,353,251.98
+1012,L'Oreal Makeup Item 2,BPC,Makeup,L'Oreal,International,1607,1132.49
+1013,Estee Lauder Makeup Item 1,BPC,Makeup,Estee Lauder,International,3087,1980.87
+1014,Estee Lauder Makeup Item 2,BPC,Makeup,Estee Lauder,International,2063,1534.01
+1015,MAC Makeup Item 1,BPC,Makeup,MAC,International,3057,1881.07
+1016,MAC Makeup Item 2,BPC,Makeup,MAC,International,3412,2096.7
+1017,Maybelline Makeup Item 1,BPC,Makeup,Maybelline,International,3117,2152.47
+1018,Maybelline Makeup Item 2,BPC,Makeup,Maybelline,International,655,464.7
+1019,The Ordinary Makeup Item 1,BPC,Makeup,The Ordinary,International,4692,2903.05
+1020,The Ordinary Makeup Item 2,BPC,Makeup,The Ordinary,International,3400,2080.19
+1021,H&M Makeup Item 1,BPC,Makeup,H&M,International,2701,1956.63
+1022,H&M Makeup Item 2,BPC,Makeup,H&M,International,3262,2239.7
+1023,Levi's Makeup Item 1,BPC,Makeup,Levi's,International,869,527.37
+1024,Levi's Makeup Item 2,BPC,Makeup,Levi's,International,2166,1550.77
+1025,Nykaa Cosmetics Skincare Item 1,BPC,Skincare,Nykaa Cosmetics,In-house,953,408.17
+1026,Nykaa Cosmetics Skincare Item 2,BPC,Skincare,Nykaa Cosmetics,In-house,1127,402.36
+1027,Kay Beauty Skincare Item 1,BPC,Skincare,Kay Beauty,In-house,4014,1586.95
+1028,Kay Beauty Skincare Item 2,BPC,Skincare,Kay Beauty,In-house,3288,1066.62
+1029,Nykd Skincare Item 1,BPC,Skincare,Nykd,In-house,3210,1063.88
+1030,Nykd Skincare Item 2,BPC,Skincare,Nykd,In-house,2487,1007.91
+1031,Dot & Key Skincare Item 1,BPC,Skincare,Dot & Key,In-house,884,345.97
+1032,Dot & Key Skincare Item 2,BPC,Skincare,Dot & Key,In-house,1701,646.59
+1033,Twenty Dresses Skincare Item 1,BPC,Skincare,Twenty Dresses,In-house,2305,748
+1034,Twenty Dresses Skincare Item 2,BPC,Skincare,Twenty Dresses,In-house,3408,1160.4
+1035,L'Oreal Skincare Item 1,BPC,Skincare,L'Oreal,International,4862,3077.37
+1036,L'Oreal Skincare Item 2,BPC,Skincare,L'Oreal,International,2956,2147.32
+1037,Estee Lauder Skincare Item 1,BPC,Skincare,Estee Lauder,International,758,480.84
+1038,Estee Lauder Skincare Item 2,BPC,Skincare,Estee Lauder,International,562,405.07
+1039,MAC Skincare Item 1,BPC,Skincare,MAC,International,3586,2295.62
+1040,MAC Skincare Item 2,BPC,Skincare,MAC,International,2028,1494.58
+1041,Maybelline Skincare Item 1,BPC,Skincare,Maybelline,International,4946,3617.78
+1042,Maybelline Skincare Item 2,BPC,Skincare,Maybelline,International,2877,1817.96
+1043,The Ordinary Skincare Item 1,BPC,Skincare,The Ordinary,International,4389,2893.86
+1044,The Ordinary Skincare Item 2,BPC,Skincare,The Ordinary,International,4058,2521.77
+1045,H&M Skincare Item 1,BPC,Skincare,H&M,International,1443,919.18
+1046,H&M Skincare Item 2,BPC,Skincare,H&M,International,4898,3334.79
+1047,Levi's Skincare Item 1,BPC,Skincare,Levi's,International,3809,2798.37
+1048,Levi's Skincare Item 2,BPC,Skincare,Levi's,International,3571,2336.5
+1049,Nykaa Cosmetics Haircare Item 1,BPC,Haircare,Nykaa Cosmetics,In-house,1433,539.42
+1050,Nykaa Cosmetics Haircare Item 2,BPC,Haircare,Nykaa Cosmetics,In-house,1044,431.56
+1051,Kay Beauty Haircare Item 1,BPC,Haircare,Kay Beauty,In-house,1198,386.87
+1052,Kay Beauty Haircare Item 2,BPC,Haircare,Kay Beauty,In-house,1610,674.29
+1053,Nykd Haircare Item 1,BPC,Haircare,Nykd,In-house,3758,1463.6
+1054,Nykd Haircare Item 2,BPC,Haircare,Nykd,In-house,3452,1233.2
+1055,Dot & Key Haircare Item 1,BPC,Haircare,Dot & Key,In-house,4134,1568.3
+1056,Dot & Key Haircare Item 2,BPC,Haircare,Dot & Key,In-house,4832,2073.49
+1057,Twenty Dresses Haircare Item 1,BPC,Haircare,Twenty Dresses,In-house,394,158.4
+1058,Twenty Dresses Haircare Item 2,BPC,Haircare,Twenty Dresses,In-house,1238,497.99
+1059,L'Oreal Haircare Item 1,BPC,Haircare,L'Oreal,International,4698,3347.94
+1060,L'Oreal Haircare Item 2,BPC,Haircare,L'Oreal,International,3086,1903.24
+1061,Estee Lauder Haircare Item 1,BPC,Haircare,Estee Lauder,International,3861,2408.2
+1062,Estee Lauder Haircare Item 2,BPC,Haircare,Estee Lauder,International,326,242.24
+1063,MAC Haircare Item 1,BPC,Haircare,MAC,International,2457,1832.39
+1064,MAC Haircare Item 2,BPC,Haircare,MAC,International,1763,1192.06
+1065,Maybelline Haircare Item 1,BPC,Haircare,Maybelline,International,1171,855.51
+1066,Maybelline Haircare Item 2,BPC,Haircare,Maybelline,International,2744,1992.83
+1067,The Ordinary Haircare Item 1,BPC,Haircare,The Ordinary,International,4458,3082.02
+1068,The Ordinary Haircare Item 2,BPC,Haircare,The Ordinary,International,1552,1018.25
+1069,H&M Haircare Item 1,BPC,Haircare,H&M,International,1623,1105.11
+1070,H&M Haircare Item 2,BPC,Haircare,H&M,International,4644,3426.22
+1071,Levi's Haircare Item 1,BPC,Haircare,Levi's,International,2955,1989.57
+1072,Levi's Haircare Item 2,BPC,Haircare,Levi's,International,1216,899.07
+1073,Nykaa Cosmetics Personal Care Item 1,BPC,Personal Care,Nykaa Cosmetics,In-house,2819,946.95
+1074,Nykaa Cosmetics Personal Care Item 2,BPC,Personal Care,Nykaa Cosmetics,In-house,2273,981.26
+1075,Kay Beauty Personal Care Item 1,BPC,Personal Care,Kay Beauty,In-house,945,295.64
+1076,Kay Beauty Personal Care Item 2,BPC,Personal Care,Kay Beauty,In-house,4281,1808.31
+1077,Nykd Personal Care Item 1,BPC,Personal Care,Nykd,In-house,4663,1934.56
+1078,Nykd Personal Care Item 2,BPC,Personal Care,Nykd,In-house,1351,539
+1079,Dot & Key Personal Care Item 1,BPC,Personal Care,Dot & Key,In-house,4803,1559.87
+1080,Dot & Key Personal Care Item 2,BPC,Personal Care,Dot & Key,In-house,4622,1991.46
+1081,Twenty Dresses Personal Care Item 1,BPC,Personal Care,Twenty Dresses,In-house,3766,1674.57
+1082,Twenty Dresses Personal Care Item 2,BPC,Personal Care,Twenty Dresses,In-house,4717,1949.49
+1083,L'Oreal Personal Care Item 1,BPC,Personal Care,L'Oreal,International,1947,1376.42
+1084,L'Oreal Personal Care Item 2,BPC,Personal Care,L'Oreal,International,3568,2673.4
+1085,Estee Lauder Personal Care Item 1,BPC,Personal Care,Estee Lauder,International,3359,2236.14
+1086,Estee Lauder Personal Care Item 2,BPC,Personal Care,Estee Lauder,International,4539,3030.79
+1087,MAC Personal Care Item 1,BPC,Personal Care,MAC,International,2330,1476.53
+1088,MAC Personal Care Item 2,BPC,Personal Care,MAC,International,3069,1851.08
+1089,Maybelline Personal Care Item 1,BPC,Personal Care,Maybelline,International,4837,3069.16
+1090,Maybelline Personal Care Item 2,BPC,Personal Care,Maybelline,International,2104,1264.67
+1091,The Ordinary Personal Care Item 1,BPC,Personal Care,The Ordinary,International,782,496.05
+1092,The Ordinary Personal Care Item 2,BPC,Personal Care,The Ordinary,International,557,406.02
+1093,H&M Personal Care Item 1,BPC,Personal Care,H&M,International,880,595.87
+1094,H&M Personal Care Item 2,BPC,Personal Care,H&M,International,2581,1807.59
+1095,Levi's Personal Care Item 1,BPC,Personal Care,Levi's,International,2055,1399.22
+1096,Levi's Personal Care Item 2,BPC,Personal Care,Levi's,International,4977,3416.37
+1097,Nykaa Cosmetics Fragrance Item 1,BPC,Fragrance,Nykaa Cosmetics,In-house,2290,956.52
+1098,Nykaa Cosmetics Fragrance Item 2,BPC,Fragrance,Nykaa Cosmetics,In-house,3634,1193.99
+1099,Kay Beauty Fragrance Item 1,BPC,Fragrance,Kay Beauty,In-house,1094,436.34
+1100,Kay Beauty Fragrance Item 2,BPC,Fragrance,Kay Beauty,In-house,3202,1164.04
+1101,Nykd Fragrance Item 1,BPC,Fragrance,Nykd,In-house,4125,1772
+1102,Nykd Fragrance Item 2,BPC,Fragrance,Nykd,In-house,743,297.95
+1103,Dot & Key Fragrance Item 1,BPC,Fragrance,Dot & Key,In-house,1106,341.86
+1104,Dot & Key Fragrance Item 2,BPC,Fragrance,Dot & Key,In-house,3079,1293.45
+1105,Twenty Dresses Fragrance Item 1,BPC,Fragrance,Twenty Dresses,In-house,1195,403.07
+1106,Twenty Dresses Fragrance Item 2,BPC,Fragrance,Twenty Dresses,In-house,1858,706.86
+1107,L'Oreal Fragrance Item 1,BPC,Fragrance,L'Oreal,International,1448,960.43
+1108,L'Oreal Fragrance Item 2,BPC,Fragrance,L'Oreal,International,2581,1727.71
+1109,Estee Lauder Fragrance Item 1,BPC,Fragrance,Estee Lauder,International,917,611.15
+1110,Estee Lauder Fragrance Item 2,BPC,Fragrance,Estee Lauder,International,4808,2955.41
+1111,MAC Fragrance Item 1,BPC,Fragrance,MAC,International,4728,3429.71
+1112,MAC Fragrance Item 2,BPC,Fragrance,MAC,International,1064,786.25
+1113,Maybelline Fragrance Item 1,BPC,Fragrance,Maybelline,International,2236,1397.38
+1114,Maybelline Fragrance Item 2,BPC,Fragrance,Maybelline,International,4278,2875.69
+1115,The Ordinary Fragrance Item 1,BPC,Fragrance,The Ordinary,International,3585,2636.29
+1116,The Ordinary Fragrance Item 2,BPC,Fragrance,The Ordinary,International,1648,1082.48
+1117,H&M Fragrance Item 1,BPC,Fragrance,H&M,International,3498,2237.95
+1118,H&M Fragrance Item 2,BPC,Fragrance,H&M,International,4027,2588.5
+1119,Levi's Fragrance Item 1,BPC,Fragrance,Levi's,International,4852,3392.91
+1120,Levi's Fragrance Item 2,BPC,Fragrance,Levi's,International,4286,2671.12
+1121,Nykaa Cosmetics Western Wear Item 1,Fashion,Western Wear,Nykaa Cosmetics,In-house,2730,908.15
+1122,Nykaa Cosmetics Western Wear Item 2,Fashion,Western Wear,Nykaa Cosmetics,In-house,779,301.38
+1123,Kay Beauty Western Wear Item 1,Fashion,Western Wear,Kay Beauty,In-house,4741,1465.65
+1124,Kay Beauty Western Wear Item 2,Fashion,Western Wear,Kay Beauty,In-house,2869,885.3
+1125,Nykd Western Wear Item 1,Fashion,Western Wear,Nykd,In-house,4205,1578.67
+1126,Nykd Western Wear Item 2,Fashion,Western Wear,Nykd,In-house,4650,1504.81
+1127,Dot & Key Western Wear Item 1,Fashion,Western Wear,Dot & Key,In-house,4460,1391.59
+1128,Dot & Key Western Wear Item 2,Fashion,Western Wear,Dot & Key,In-house,1822,565.33
+1129,Twenty Dresses Western Wear Item 1,Fashion,Western Wear,Twenty Dresses,In-house,856,343.5
+1130,Twenty Dresses Western Wear Item 2,Fashion,Western Wear,Twenty Dresses,In-house,2226,802.62
+1131,L'Oreal Western Wear Item 1,Fashion,Western Wear,L'Oreal,International,4966,3163.01
+1132,L'Oreal Western Wear Item 2,Fashion,Western Wear,L'Oreal,International,625,433.07
+1133,Estee Lauder Western Wear Item 1,Fashion,Western Wear,Estee Lauder,International,3734,2608.59
+1134,Estee Lauder Western Wear Item 2,Fashion,Western Wear,Estee Lauder,International,4930,3344.6
+1135,MAC Western Wear Item 1,Fashion,Western Wear,MAC,International,2436,1536.24
+1136,MAC Western Wear Item 2,Fashion,Western Wear,MAC,International,2873,1826.66
+1137,Maybelline Western Wear Item 1,Fashion,Western Wear,Maybelline,International,3542,2194.74
+1138,Maybelline Western Wear Item 2,Fashion,Western Wear,Maybelline,International,2757,1843.29
+1139,The Ordinary Western Wear Item 1,Fashion,Western Wear,The Ordinary,International,894,537.65
+1140,The Ordinary Western Wear Item 2,Fashion,Western Wear,The Ordinary,International,4912,3681.12
+1141,H&M Western Wear Item 1,Fashion,Western Wear,H&M,International,900,612.58
+1142,H&M Western Wear Item 2,Fashion,Western Wear,H&M,International,4444,2843.18
+1143,Levi's Western Wear Item 1,Fashion,Western Wear,Levi's,International,3159,2312.8
+1144,Levi's Western Wear Item 2,Fashion,Western Wear,Levi's,International,2301,1508.14
+1145,Nykaa Cosmetics Indian Wear Item 1,Fashion,Indian Wear,Nykaa Cosmetics,In-house,1592,582.24
+1146,Nykaa Cosmetics Indian Wear Item 2,Fashion,Indian Wear,Nykaa Cosmetics,In-house,4750,1926.27
+1147,Kay Beauty Indian Wear Item 1,Fashion,Indian Wear,Kay Beauty,In-house,4633,1395.34
+1148,Kay Beauty Indian Wear Item 2,Fashion,Indian Wear,Kay Beauty,In-house,4843,1670.38
+1149,Nykd Indian Wear Item 1,Fashion,Indian Wear,Nykd,In-house,1148,506.08
+1150,Nykd Indian Wear Item 2,Fashion,Indian Wear,Nykd,In-house,1400,475.54
+1151,Dot & Key Indian Wear Item 1,Fashion,Indian Wear,Dot & Key,In-house,1176,483.76
+1152,Dot & Key Indian Wear Item 2,Fashion,Indian Wear,Dot & Key,In-house,1573,536.16
+1153,Twenty Dresses Indian Wear Item 1,Fashion,Indian Wear,Twenty Dresses,In-house,2025,825.47
+1154,Twenty Dresses Indian Wear Item 2,Fashion,Indian Wear,Twenty Dresses,In-house,1967,792.95
+1155,L'Oreal Indian Wear Item 1,Fashion,Indian Wear,L'Oreal,International,2462,1663.85
+1156,L'Oreal Indian Wear Item 2,Fashion,Indian Wear,L'Oreal,International,2357,1734.28
+1157,Estee Lauder Indian Wear Item 1,Fashion,Indian Wear,Estee Lauder,International,716,439.51
+1158,Estee Lauder Indian Wear Item 2,Fashion,Indian Wear,Estee Lauder,International,3769,2730.27
+1159,MAC Indian Wear Item 1,Fashion,Indian Wear,MAC,International,661,396.95
+1160,MAC Indian Wear Item 2,Fashion,Indian Wear,MAC,International,1371,953.62
+1161,Maybelline Indian Wear Item 1,Fashion,Indian Wear,Maybelline,International,2445,1526.26
+1162,Maybelline Indian Wear Item 2,Fashion,Indian Wear,Maybelline,International,3919,2675.71
+1163,The Ordinary Indian Wear Item 1,Fashion,Indian Wear,The Ordinary,International,3803,2601.77
+1164,The Ordinary Indian Wear Item 2,Fashion,Indian Wear,The Ordinary,International,1216,743.32
+1165,H&M Indian Wear Item 1,Fashion,Indian Wear,H&M,International,1521,1037.08
+1166,H&M Indian Wear Item 2,Fashion,Indian Wear,H&M,International,3324,2284.84
+1167,Levi's Indian Wear Item 1,Fashion,Indian Wear,Levi's,International,1513,1005.34
+1168,Levi's Indian Wear Item 2,Fashion,Indian Wear,Levi's,International,642,414.89
+1169,Nykaa Cosmetics Footwear Item 1,Fashion,Footwear,Nykaa Cosmetics,In-house,626,272.21
+1170,Nykaa Cosmetics Footwear Item 2,Fashion,Footwear,Nykaa Cosmetics,In-house,2020,812.67
+1171,Kay Beauty Footwear Item 1,Fashion,Footwear,Kay Beauty,In-house,1142,403.19
+1172,Kay Beauty Footwear Item 2,Fashion,Footwear,Kay Beauty,In-house,4886,2113.78
+1173,Nykd Footwear Item 1,Fashion,Footwear,Nykd,In-house,3629,1618.81
+1174,Nykd Footwear Item 2,Fashion,Footwear,Nykd,In-house,1566,687.26
+1175,Dot & Key Footwear Item 1,Fashion,Footwear,Dot & Key,In-house,2239,962.08
+1176,Dot & Key Footwear Item 2,Fashion,Footwear,Dot & Key,In-house,1750,756.37
+1177,Twenty Dresses Footwear Item 1,Fashion,Footwear,Twenty Dresses,In-house,503,164.43
+1178,Twenty Dresses Footwear Item 2,Fashion,Footwear,Twenty Dresses,In-house,3021,1260.84
+1179,L'Oreal Footwear Item 1,Fashion,Footwear,L'Oreal,International,3672,2645.07
+1180,L'Oreal Footwear Item 2,Fashion,Footwear,L'Oreal,International,2332,1492.53
+1181,Estee Lauder Footwear Item 1,Fashion,Footwear,Estee Lauder,International,1185,779
+1182,Estee Lauder Footwear Item 2,Fashion,Footwear,Estee Lauder,International,617,449.66
+1183,MAC Footwear Item 1,Fashion,Footwear,MAC,International,2122,1336.72
+1184,MAC Footwear Item 2,Fashion,Footwear,MAC,International,4070,2655.47
+1185,Maybelline Footwear Item 1,Fashion,Footwear,Maybelline,International,2164,1370.76
+1186,Maybelline Footwear Item 2,Fashion,Footwear,Maybelline,International,1882,1241.69
+1187,The Ordinary Footwear Item 1,Fashion,Footwear,The Ordinary,International,2582,1883.96
+1188,The Ordinary Footwear Item 2,Fashion,Footwear,The Ordinary,International,2586,1687.81
+1189,H&M Footwear Item 1,Fashion,Footwear,H&M,International,4473,2951.96
+1190,H&M Footwear Item 2,Fashion,Footwear,H&M,International,4692,3048.26
+1191,Levi's Footwear Item 1,Fashion,Footwear,Levi's,International,526,324.7
+1192,Levi's Footwear Item 2,Fashion,Footwear,Levi's,International,2439,1528.73
+1193,Nykaa Cosmetics Lingerie Item 1,Fashion,Lingerie,Nykaa Cosmetics,In-house,2474,756.4
+1194,Nykaa Cosmetics Lingerie Item 2,Fashion,Lingerie,Nykaa Cosmetics,In-house,3859,1357.8
+1195,Kay Beauty Lingerie Item 1,Fashion,Lingerie,Kay Beauty,In-house,2869,1048.5
+1196,Kay Beauty Lingerie Item 2,Fashion,Lingerie,Kay Beauty,In-house,4489,1424.57
+1197,Nykd Lingerie Item 1,Fashion,Lingerie,Nykd,In-house,1857,628.05
+1198,Nykd Lingerie Item 2,Fashion,Lingerie,Nykd,In-house,3872,1162.58
+1199,Dot & Key Lingerie Item 1,Fashion,Lingerie,Dot & Key,In-house,4710,1898.26
+1200,Dot & Key Lingerie Item 2,Fashion,Lingerie,Dot & Key,In-house,1914,678.77
+1201,Twenty Dresses Lingerie Item 1,Fashion,Lingerie,Twenty Dresses,In-house,873,386.16
+1202,Twenty Dresses Lingerie Item 2,Fashion,Lingerie,Twenty Dresses,In-house,3004,1181.99
+1203,L'Oreal Lingerie Item 1,Fashion,Lingerie,L'Oreal,International,1320,934.51
+1204,L'Oreal Lingerie Item 2,Fashion,Lingerie,L'Oreal,International,2760,1865.95
+1205,Estee Lauder Lingerie Item 1,Fashion,Lingerie,Estee Lauder,International,3645,2365.34
+1206,Estee Lauder Lingerie Item 2,Fashion,Lingerie,Estee Lauder,International,2722,1859.57
+1207,MAC Lingerie Item 1,Fashion,Lingerie,MAC,International,1871,1240.6
+1208,MAC Lingerie Item 2,Fashion,Lingerie,MAC,International,3405,2388.94
+1209,Maybelline Lingerie Item 1,Fashion,Lingerie,Maybelline,International,1725,1194.26
+1210,Maybelline Lingerie Item 2,Fashion,Lingerie,Maybelline,International,2765,1827.42
+1211,The Ordinary Lingerie Item 1,Fashion,Lingerie,The Ordinary,International,303,195.61
+1212,The Ordinary Lingerie Item 2,Fashion,Lingerie,The Ordinary,International,2021,1342.92
+1213,H&M Lingerie Item 1,Fashion,Lingerie,H&M,International,2939,1968.39
+1214,H&M Lingerie Item 2,Fashion,Lingerie,H&M,International,3922,2750.67
+1215,Levi's Lingerie Item 1,Fashion,Lingerie,Levi's,International,4487,3010.68
+1216,Levi's Lingerie Item 2,Fashion,Lingerie,Levi's,International,1690,1181.02
+1217,Nykaa Cosmetics Accessories Item 1,Fashion,Accessories,Nykaa Cosmetics,In-house,2624,990.08
+1218,Nykaa Cosmetics Accessories Item 2,Fashion,Accessories,Nykaa Cosmetics,In-house,3045,956.15
+1219,Kay Beauty Accessories Item 1,Fashion,Accessories,Kay Beauty,In-house,2224,891.64
+1220,Kay Beauty Accessories Item 2,Fashion,Accessories,Kay Beauty,In-house,2140,900.91
+1221,Nykd Accessories Item 1,Fashion,Accessories,Nykd,In-house,1507,457.62
+1222,Nykd Accessories Item 2,Fashion,Accessories,Nykd,In-house,2305,1031.7
+1223,Dot & Key Accessories Item 1,Fashion,Accessories,Dot & Key,In-house,896,330.01
+1224,Dot & Key Accessories Item 2,Fashion,Accessories,Dot & Key,In-house,1892,771.47
+1225,Twenty Dresses Accessories Item 1,Fashion,Accessories,Twenty Dresses,In-house,3445,1288.97
+1226,Twenty Dresses Accessories Item 2,Fashion,Accessories,Twenty Dresses,In-house,2298,740.27
+1227,L'Oreal Accessories Item 1,Fashion,Accessories,L'Oreal,International,345,253.2
+1228,L'Oreal Accessories Item 2,Fashion,Accessories,L'Oreal,International,1173,840.76
+1229,Estee Lauder Accessories Item 1,Fashion,Accessories,Estee Lauder,International,2092,1310.39
+1230,Estee Lauder Accessories Item 2,Fashion,Accessories,Estee Lauder,International,4543,3042.37
+1231,MAC Accessories Item 1,Fashion,Accessories,MAC,International,4866,3101.49
+1232,MAC Accessories Item 2,Fashion,Accessories,MAC,International,1294,865
+1233,Maybelline Accessories Item 1,Fashion,Accessories,Maybelline,International,4106,2874.76
+1234,Maybelline Accessories Item 2,Fashion,Accessories,Maybelline,International,4878,3362.49
+1235,The Ordinary Accessories Item 1,Fashion,Accessories,The Ordinary,International,3925,2715.7
+1236,The Ordinary Accessories Item 2,Fashion,Accessories,The Ordinary,International,4435,2944.89
+1237,H&M Accessories Item 1,Fashion,Accessories,H&M,International,4788,3193.06
+1238,H&M Accessories Item 2,Fashion,Accessories,H&M,International,1603,1140.61
+1239,Levi's Accessories Item 1,Fashion,Accessories,Levi's,International,4188,2795.53
+1240,Levi's Accessories Item 2,Fashion,Accessories,Levi's,International,2325,1687.9
